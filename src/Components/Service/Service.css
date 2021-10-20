@@ -1,0 +1,8 @@
+.service-card img{
+    
+    height: 200px;
+}
+.service-card{
+    border: 1px solid gray;
+    border-radius: 5px;
+}
