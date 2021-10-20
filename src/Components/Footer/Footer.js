@@ -3,8 +3,9 @@ import './Footer.css';
 
 const Footer = () => {
     return (
-        <div className="footer">
-            <h3>Save the life hospital Ltd</h3>
+        <div className="footer mt-5">
+            <h3><b><span className="hospital">Save The Life </span>Hospital Ltd</b></h3>
+            <h6 className="footer-text">We Care For You</h6>
         </div>
     );
 };

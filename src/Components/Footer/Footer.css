@@ -1,6 +1,13 @@
 .footer{
-    background-color: gray;
+    
+    background-color: rgb(20, 19, 19);
     color: honeydew;
-    padding: 20px;
-    margin: 20px;
+    padding: 50px;
+    
+}
+.footer-text{
+    color: gray;
+}
+.hospital{
+    color: rgb(4, 153, 4);
 }
